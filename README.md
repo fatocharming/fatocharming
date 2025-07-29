@@ -1,23 +1,30 @@
 ```markdown
-# 👤 About Me
-Hi there! I'm **fatocharming**, your friendly **Data Sleuth** 🔍. I specialize in uncovering hidden insights through OSINT (Open Source Intelligence) techniques. My mission? To turn data into actionable knowledge! 🌐
+# 👋 Welcome to my OSINT Hub!
 
-# ⚙️ Tech Stack
-- **Languages**: Python 🐍, JavaScript 💻
-- **Tools**: Maltego, SpiderFoot, Shodan 📡
-- **Databases**: SQL, MongoDB 🔐
-- **Frameworks**: Flask, Django
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Cyber+Investigator)
 
-# 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatocharming&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatocharming&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fatocharming&theme=dark)
-![Profile Views](https://komarev.com/ghpvc/?username=fatocharming&color=blue)
+## About Me
+🔍 Hi there! I'm **fatocharming**, a passionate Cyber Investigator specializing in Open Source Intelligence (OSINT). My mission is to leverage publicly available data to uncover insights and enhance cybersecurity measures.
 
-# 📫 Contact Me
-- [Twitter](https://twitter.com/fatocharming) 🐦
-- [LinkedIn](https://linkedin.com/in/fatocharming) 🌐
+## Tech Stack
+🕵️‍♂️ **Tools & Technologies:**
+- Python 🐍
+- Maltego
+- Shodan
+- OSINT Framework
+- Social Media Scraping 📡
+- Data Visualization 🌐
+
+## GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=fatocharming&color=blue)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatocharming&layout=compact&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=fatocharming&theme=onedark)
+
+## Contact Me
+🔐 Let's connect!  
+- Twitter: [@fatocharming](https://twitter.com/fatocharming)  
+- LinkedIn: [linkedin.com/in/fatocharming](https://linkedin.com/in/fatocharming)  
 - Email: fatocharming@example.com
 
-Let's connect and explore the world of data together! 🕵️
+🌟 Happy Investigating!  
 ```
