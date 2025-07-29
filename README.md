@@ -1,24 +1,25 @@
 ```markdown
-# 👤 About Me
-Hello! I'm **fatocharming**, an OSINT Analyst passionate about uncovering hidden information and turning data into actionable insights. 🔍 With a keen eye for detail and a love for technology, I strive to enhance security and awareness in the digital landscape. 🌐
+# 🌐 Welcome to my OSINT Hub! 🔍
 
-## 🛠 Tech Stack
-- **Languages:** Python, JavaScript
-- **Tools:** Maltego, TheHarvester, SpiderFoot
-- **Databases:** Elasticsearch, MongoDB
-- **APIs:** Google Maps, Shodan, WHOIS
-- **Frameworks:** Django, Flask
+## About Me
+👤 I'm **fatocharming**, a passionate **Cyber Investigator** specializing in Open Source Intelligence. I thrive on uncovering hidden insights and leveraging data for security and research. Let's connect and explore the digital landscape together!
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatocharming&theme=dark&show_icons=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=fatocharming&theme=onedark)
+## Tech Stack
+- 🕵️ **Tools**: Maltego, Recon-ng, TheHarvester, OSINT Framework
+- 📡 **Languages**: Python, Bash, SQL
+- 🔐 **Databases**: Elasticsearch, MongoDB
+- 🌐 **Platforms**: Shodan, Wayback Machine, VirusTotal
+
+## GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=fatocharming&color=blue)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fatocharming&theme=dark)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
+![Trophies](https://github-profile-trophy.vercel.app/?username=fatocharming&theme=onedark)
 
-## 📫 Contact
-- [Twitter](https://twitter.com/fatocharming)
-- [LinkedIn](https://linkedin.com/in/fatocharming)
-- [Email](mailto:fatocharming@example.com)
+## Contact Me
+Feel free to reach out:  
+📧 Email: fatocharming@example.com  
+🐦 Twitter: [@fatocharming](https://twitter.com/fatocharming)  
+💼 LinkedIn: [fatocharming](https://linkedin.com/in/fatocharming)  
 
-Let's connect and explore the world of OSINT together! 🕵️‍♂️
+Let's discover and secure the digital world together! 🚀
 ```
