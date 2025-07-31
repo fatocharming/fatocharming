@@ -1,26 +1,20 @@
 ```markdown
 # 👤 About Me
-Hi there! I'm **fatocharming**, a passionate Data Sleuth 🔍 specializing in Open Source Intelligence (OSINT) and cybersecurity. I delve deep into the digital shadows to uncover insights and protect against threats. Let's explore the world of data together! 🌐
-
----
+Hi there! I'm **fatocharming**, a passionate Threat Hunter specializing in the OSINT field. 🔍 I leverage open-source intelligence to uncover threats and protect systems from cyber adversaries. My mission is to make the digital world a safer place, one byte at a time!
 
 # 🛠️ Tech Stack
 - **Languages**: Python, Go, Bash
 - **Tools**: Kali Linux, Wireshark, Metasploit, Nmap
-- **Techniques**: Data mining, web scraping, threat hunting
+- **Techniques**: Threat Hunting, Network Analysis, Vulnerability Assessment
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=fatocharming&color=blue)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Data+Sleuth)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fatocharming&theme=dark)
+# 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatocharming&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatocharming&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=fatocharming&theme=onedark)
 
----
+# 🌐 Contact Me
+- Twitter: [@fatocharming](https://twitter.com/fatocharming) 📡
+- Email: [fatocharming@example.com](mailto:fatocharming@example.com) 🔐
 
-# 📫 Contact
-- **Twitter**: [@fatocharming](https://twitter.com/fatocharming)
-- **LinkedIn**: [fatocharming](https://www.linkedin.com/in/fatocharming)
-
-🔐 Let's connect and make the web a safer place!
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Threat+Hunter)
 ```
