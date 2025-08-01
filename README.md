@@ -1,38 +1,42 @@
 ```markdown
-# 👤 Welcome to the GitHub Profile of **fatocharming**! 
+# 👋 Hello, I'm **fatocharming**!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Cyber+Investigator)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatocharming&theme=dark&show_icons=true)
-![Profile Views](https://komarev.com/ghpvc/?username=fatocharming&color=blue)
-![Trophies](https://github-profile-trophy.vercel.app/?username=fatocharming&theme=onedark)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
 
 ---
 
 ## 🔍 About Me
-Hello! I'm **fatocharming**, a dedicated Cyber Investigator specializing in Open Source Intelligence (OSINT). With a passion for uncovering the truth and a keen eye for detail, I leverage technology and analytical skills to help organizations mitigate risks and protect digital assets. My goal is to make the cyber world a safer place, one investigation at a time.
+As a passionate OSINT Analyst, I thrive on uncovering hidden insights and leveraging data to empower cybersecurity initiatives. My journey in the field of Open Source Intelligence has equipped me with the skills to navigate the intricate landscapes of digital data. I believe in the power of information and its role in enhancing security measures.
+
+![Data Flow](https://media.giphy.com/media/1zq0B1YbGzG1SkvFzH/giphy.gif)
 
 ---
 
-## 💻 Tech Stack
-- **Languages**: Python, JavaScript, SQL
-- **Tools**: Maltego, OSINT Framework, theHarvester, Shodan
-- **Databases**: MongoDB, MySQL
-- **Cloud Services**: AWS, Azure
-- **Version Control**: Git, GitHub
-- **Security**: Wireshark, Metasploit, Nmap
+## 📡 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A1?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-005BFF?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-4EAA25?style=flat&logo=nmap&logoColor=white)
 
 ---
 
-## 📡 Contact
-Feel free to reach out to me for collaboration or inquiries!
-
-- **Email**: [fatocharming@example.com](mailto:fatocharming@example.com)
-- **LinkedIn**: [fatocharming](https://linkedin.com/in/fatocharming)
-- **Twitter**: [@fatocharming](https://twitter.com/fatocharming)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatocharming&theme=dark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatocharming&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=fatocharming&theme=onedark)
 
 ---
 
-🌐 Let's connect and explore the world of Cyber Investigation together! 
+## 🌐 Contact Me
+- 📧 Email: [fatocharming@example.com](mailto:fatocharming@example.com)
+- 🐦 Twitter: [@fatocharming](https://twitter.com/fatocharming)
+
+![Hacking Animation](https://media.giphy.com/media/3o7aD3v4D8gJb5DB5S/giphy.gif)
+
+---
+
+Let’s connect and collaborate on cybersecurity projects! 🔐
 ```
-This README provides a professional and unique overview of the user "fatocharming" with a focus on their role as a Cyber Investigator. The use of emojis and dynamic elements creates a visually appealing and informative profile.
