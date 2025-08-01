@@ -1,42 +1,45 @@
 ```markdown
-# 👾 Welcome to the OSINT Universe of **fatocharming**! 🌌
+# 🔍 Welcome to the OSINT Domain of **fatocharming** 🌐
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Threat+Hunter)
-
----
-
-## 🔍 About Me
-As a dedicated **Threat Hunter** specializing in OSINT (Open Source Intelligence), I thrive on uncovering hidden insights and patterns that can fortify our cybersecurity landscape. With a passion for digging deep into data, I aim to empower organizations with actionable intelligence to combat evolving threats.
+![Profile Views](https://komarev.com/ghpvc/?username=fatocharming&color=blue)
 
 ---
 
-## 🌐 Tech Stack
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
-- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff)
-- ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=ffffff)
-- ![Wireshark](https://img.shields.io/badge/-Wireshark-88CCF1?style=flat-square&logo=wireshark&logoColor=ffffff)
-- ![Metasploit](https://img.shields.io/badge/-Metasploit-3EAB7A?style=flat-square&logo=metasploit&logoColor=ffffff)
-- ![Nmap](https://img.shields.io/badge/-Nmap-004B87?style=flat-square&logo=nmap&logoColor=ffffff)
+## 🕵️ About Me
+As a dedicated **Threat Hunter** specializing in **Open Source Intelligence (OSINT)**, I thrive on uncovering hidden insights and fortifying cybersecurity defenses. My passion lies in utilizing cutting-edge tools and methodologies to anticipate threats and protect vital assets in our digital landscape.
+
+![Dynamic Data Flow](https://media.giphy.com/media/3o7aD6n4QkB4hxV9bW/giphy.gif)
+
+---
+
+## 📡 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-3F3F3F?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat&logo=nmap&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatocharming&theme=dark&show_icons=true)  ![Profile Views](https://komarev.com/ghpvc/?username=fatocharming&color=blue)  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fatocharming&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=fatocharming&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatocharming&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fatocharming&theme=dark)
 
 ---
 
-### Dynamic Elements
-![Data Flow](https://media.giphy.com/media/26BRv0D7nB7P1h7iA/giphy.gif)
-![Network Scan](https://media.giphy.com/media/3oFzm7g5D2fTnQ0VB2/giphy.gif)
+## 📫 Contact Me
+- **LinkedIn**: [fatocharming](https://www.linkedin.com/in/fatocharming)
+- **Twitter**: [@fatocharming](https://twitter.com/fatocharming)
+- **Email**: [fatocharming@example.com](mailto:fatocharming@example.com)
+
+![Hacking Animation](https://media.giphy.com/media/3o7buun8N8X2C5uC1u/giphy.gif)
 
 ---
 
-## 📬 Contact Me
-- **Email:** [fatocharming@example.com](mailto:fatocharming@example.com)
-- **LinkedIn:** [linkedin.com/in/fatocharming](https://linkedin.com/in/fatocharming)
-
----
-
-> "In the world of cybersecurity, knowledge is your shield." 🔐
+🔐 Let's secure the digital world together! 🌍
 ```
+
+This README captures the essence of a cybersecurity professional focused on OSINT, combining dynamic visual elements with a clean, professional layout. The GIFs and badges add life and engagement, making it visually appealing and thematic.
