@@ -1,45 +1,38 @@
 ```markdown
-# 👤 About Me
+# 🔍 Welcome to my OSINT Realm
 
-🔍 Hi there! I’m **fatocharming**, a passionate Cyber Investigator specializing in **OSINT** (Open Source Intelligence). With a keen eye for detail and a dedication to uncovering the unseen, I navigate the intricate web of data to protect and inform. My mission? To empower organizations with actionable insights and bolster their cybersecurity posture.
-
-![Hacking GIF](https://media.giphy.com/media/3o6MbaZ5y1E1qz3o4Y/giphy.gif)
-
----
-
-# 🛠️ Tech Stack
-
-| Language/Tool | Proficiency |
-|---------------|-------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Expert |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | Intermediate |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) | Intermediate |
-| ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) | Expert |
-| ![Wireshark](https://img.shields.io/badge/Wireshark-3C4C63?style=flat&logo=wireshark&logoColor=white) | Intermediate |
-| ![Metasploit](https://img.shields.io/badge/Metasploit-7B7B7B?style=flat&logo=metasploit&logoColor=white) | Intermediate |
-| ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=flat&logo=nmap&logoColor=white) | Intermediate |
+![Profile Views](https://komarev.com/ghpvc/?username=fatocharming&color=blue)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=fatocharming&theme=onedark)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Threat+Hunter)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatocharming&theme=dark&show_icons=true)
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatocharming&theme=dark&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatocharming&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fatocharming&theme=dark)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=fatocharming&theme=onedark)
+## 🌐 About Me
+Hello! I'm **fatocharming**, a passionate Threat Hunter dedicated to uncovering hidden threats in the digital landscape. With a keen eye for detail and a relentless curiosity, I leverage OSINT (Open Source Intelligence) to stay ahead of the curve in cybersecurity. My mission is to protect and empower organizations by turning data into actionable insights. 
 
 ---
 
-# 📡 Connect with Me
+## 📡 Tech Stack
+Here are the tools and technologies I frequently use in my threat hunting endeavors:
 
-- 📧 [Email](mailto:your-email@example.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 💼 [Twitter](https://twitter.com/yourprofile)
-
-![Data Flow GIF](https://media.giphy.com/media/xT8qB0aAbn4pDi4yI0/giphy.gif)
+- **Scripting Languages:** Python 🐍, Bash
+- **OSINT Tools:** Maltego, TheHarvester, OSINT Framework
+- **Data Analysis:** Pandas 📊, NumPy
+- **Threat Intelligence Platforms:** MISP, ThreatConnect
+- **Cloud Services:** AWS, Azure
+- **Version Control:** Git, GitHub
 
 ---
 
-> "The future of cybersecurity is in understanding the past." - Your Cyber Investigator, **fatocharming** 🔐
+## 🔐 Contact
+Feel free to reach out if you want to collaborate, share insights, or just say hello! 
 
+- **Email:** [fatocharming@example.com](mailto:fatocharming@example.com)
+- **LinkedIn:** [linkedin.com/in/fatocharming](https://www.linkedin.com/in/fatocharming)
+- **Twitter:** [@fatocharming](https://twitter.com/fatocharming)
+
+---
+
+Stay vigilant, and let's make the cyber world a safer place! 🕵️‍♂️
 ```
