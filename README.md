@@ -1,46 +1,37 @@
 ```markdown
-# 👤 Welcome to the OSINT Domain of **fatocharming** 🕵️
+# 👤 About Me
+I'm **Fatocharming**, your dedicated Data Sleuth in the field of OSINT. With a passion for uncovering hidden truths and analyzing data patterns, I delve deep into the cyber abyss to unearth valuable insights. Join me on this thrilling journey of discovery and security!
 
-![Profile Views](https://komarev.com/ghpvc/?username=fatocharming&color=blue)
-
----
-
-## About Me 🌐
-Hello! I'm **fatocharming**, a passionate Cyber Investigator specializing in Open Source Intelligence (OSINT). 🔍 With a keen eye for detail and a commitment to unearthing the truth, I analyze data from diverse sources to provide actionable insights. My expertise spans various aspects of cybersecurity, digital forensics, and threat intelligence.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Data+Sleuth)
 
 ---
 
-## Tech Stack 📡
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks**: Flask, Django, Node.js
-- **Tools**: Maltego, Shodan, TheHarvester, OSINT Framework
-- **Databases**: PostgreSQL, MongoDB
-- **Cloud Services**: AWS, Azure
-- **Version Control**: Git, GitHub
+# 🚀 Tech Stack
+| Language/Tool | Skills |
+|---------------|--------|
+| ![Python](https://img.shields.io/badge/Python-3.9-red) | ![Go](https://img.shields.io/badge/Go-1.16-blue) |
+| ![Bash](https://img.shields.io/badge/Bash-5.1-green) | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2021.3-purple) |
+| ![Wireshark](https://img.shields.io/badge/Wireshark-3.4.5-orange) | ![Metasploit](https://img.shields.io/badge/Metasploit-6.1.1-yellow) |
+| ![Nmap](https://img.shields.io/badge/Nmap-7.91-lightblue) |  |
 
 ---
 
-## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=fatocharming&theme=onedark)
-
----
-
-## My Coding Stats 📊
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatocharming&layout=compact&theme=radical)
+# 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatocharming&theme=dark&show_icons=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fatocharming&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatocharming&layout=compact&theme=radical)
 
 ---
 
-## Contact 🔐
-Feel free to connect with me for collaboration, inquiries, or just to chat about the fascinating world of cybersecurity!
-
-- **Email**: [fatocharming@example.com](mailto:fatocharming@example.com)
-- **LinkedIn**: [fatocharming](https://www.linkedin.com/in/fatocharming)
-- **Twitter**: [@fatocharming](https://twitter.com/fatocharming)
+# 🌐 Connect with Me
+🔗 [LinkedIn](https://www.linkedin.com/in/fatocharming) | 📧 [Email](mailto:fatocharming@example.com)
 
 ---
 
-Thank you for stopping by! Let's uncover the unseen together! 🌌
+![Hacking GIF](https://media.giphy.com/media/l0IylN2u0G6H7UoH6/giphy.gif)
+![Data Flow GIF](https://media.giphy.com/media/3o7TKM8M3TgRzHf2gA/giphy.gif)
+
+---
 ```
 
-This README is designed to be professional yet visually engaging, suitable for a Cyber Investigator's GitHub profile. You can customize the email and social links as per your actual accounts.
+This README is designed to be both engaging and informative, incorporating dynamic elements to enhance the visual experience without compromising on professionalism.
