@@ -1,35 +1,43 @@
 ```markdown
-# 👤 About Me
-Hello! I'm **fatocharming**, an OSINT Analyst diving deep into the world of cybersecurity. I specialize in uncovering hidden data, analyzing threats, and crafting strategies to safeguard information. My passion lies in transforming raw data into actionable intelligence. Let's make the digital world a safer place together! 🔍🕵️‍♂️
+# 🌐 Welcome to the OSINT Lab of **fatocharming** 🔍
+
+![Profile Views](https://komarev.com/ghpvc/?username=fatocharming&color=blue)
 
 ---
 
-# 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff) 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=ffffff) 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=ffffff) 
-![Wireshark](https://img.shields.io/badge/Wireshark-3F5765?style=flat-square&logo=wireshark&logoColor=ffffff) 
-![Metasploit](https://img.shields.io/badge/Metasploit-1B1F23?style=flat-square&logo=metasploit&logoColor=ffffff) 
-![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat-square&logo=nmap&logoColor=ffffff) 
+## About Me 🕵️
+I'm an OSINT Analyst passionate about uncovering insights through open-source intelligence. My journey in cybersecurity is fueled by a relentless curiosity and a commitment to innovation. I thrive on dissecting complex data landscapes to reveal actionable intelligence in the digital realm.
 
 ---
 
-# 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatocharming&layout=compact&theme=radical)  
+## Tech Stack 💻
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-0078d7?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-4EAA25?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-00A300?style=flat&logo=nmap&logoColor=white)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatocharming&theme=dark&show_icons=true)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fatocharming&theme=dark)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=fatocharming&theme=onedark)  
-![Profile Views](https://komarev.com/ghpvc/?username=fatocharming&color=blue)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatocharming&layout=compact&theme=radical)
 
 ---
 
-## ✉️ Contact Me
-- 📧 [Email](mailto:youremail@example.com)
-- 🐦 [Twitter](https://twitter.com/yourprofile)
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
+### Dynamic Elements 🌌
+![Hacking GIF](https://media.giphy.com/media/5xtDaru1pM0XK0R8g7i/giphy.gif)  
+![Network Scanning](https://media.giphy.com/media/3o7aD2sa4yP1nM2n5S/giphy.gif)  
 
 ---
 
-![Hacking GIF](https://media.giphy.com/media/3oKIPd9o6hZ5G2V3f6/giphy.gif)  
-![Data Flow](https://media.giphy.com/media/3o6Zt7dD0Y9K1Zg0B6/giphy.gif)  
+## Contact Me 📧
+- [LinkedIn](https://www.linkedin.com/in/fatocharming)
+- [Twitter](https://twitter.com/fatocharming)
+
+---
+
+> Let's navigate the digital landscape together! 🌐
 ```
