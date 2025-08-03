@@ -1,46 +1,35 @@
 ```markdown
-# 👋 Welcome to My Cyber Domain!
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Threat+Hunter)
-
----
-
-## 🕵️ About Me
-I am **fatocharming**, a passionate Threat Hunter specializing in OSINT (Open Source Intelligence). My mission is to uncover hidden threats and enhance cybersecurity through innovative techniques and dedicated research. With a knack for diving deep into the digital ocean, I thrive on transforming data into actionable insights.
-
-![Hacker GIF](https://media.giphy.com/media/3oKIPnG4WQ9t9D8wXa/giphy.gif)
+# 👤 About Me
+Hello! I'm **fatocharming**, an OSINT Analyst diving deep into the world of cybersecurity. I specialize in uncovering hidden data, analyzing threats, and crafting strategies to safeguard information. My passion lies in transforming raw data into actionable intelligence. Let's make the digital world a safer place together! 🔍🕵️‍♂️
 
 ---
 
-## 📡 Tech Stack
-| Language/Tool        | Badge                                                |
-|----------------------|-----------------------------------------------------|
-| Python               | ![Python](https://img.shields.io/badge/Python-3.8-blue) |
-| Go                   | ![Go](https://img.shields.io/badge/Go-1.16-blue)      |
-| Bash                 | ![Bash](https://img.shields.io/badge/Bash-5.1-yellow)  |
-| Kali Linux           | ![Kali](https://img.shields.io/badge/Kali%20Linux-2021.2-blue) |
-| Wireshark            | ![Wireshark](https://img.shields.io/badge/Wireshark-3.4-blue) |
-| Metasploit           | ![Metasploit](https://img.shields.io/badge/Metasploit-6.0-red) |
-| Nmap                 | ![Nmap](https://img.shields.io/badge/Nmap-7.91-green)   |
+# 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff) 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=ffffff) 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=ffffff) 
+![Wireshark](https://img.shields.io/badge/Wireshark-3F5765?style=flat-square&logo=wireshark&logoColor=ffffff) 
+![Metasploit](https://img.shields.io/badge/Metasploit-1B1F23?style=flat-square&logo=metasploit&logoColor=ffffff) 
+![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat-square&logo=nmap&logoColor=ffffff) 
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatocharming&theme=dark&show_icons=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fatocharming&theme=dark)
-![Trophies](https://github-profile-trophy.vercel.app/?username=fatocharming&theme=onedark)
+# 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatocharming&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fatocharming&theme=dark)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=fatocharming&theme=onedark)  
+![Profile Views](https://komarev.com/ghpvc/?username=fatocharming&color=blue)  
 
 ---
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/fatocharming)
-- [Twitter](https://twitter.com/fatocharming)
+## ✉️ Contact Me
+- 📧 [Email](mailto:youremail@example.com)
+- 🐦 [Twitter](https://twitter.com/yourprofile)
+- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
-🔍 **Discover the digital threats lurking in the shadows.**
-![Data Flow GIF](https://media.giphy.com/media/l1J9t8f6E1jXXlV4c/giphy.gif)
-
----
+![Hacking GIF](https://media.giphy.com/media/3oKIPd9o6hZ5G2V3f6/giphy.gif)  
+![Data Flow](https://media.giphy.com/media/3o6Zt7dD0Y9K1Zg0B6/giphy.gif)  
 ```
-This README is visually engaging, featuring dynamic GIFs and thematic elements that reflect the user's expertise in OSINT and cybersecurity while maintaining a professional tone.
